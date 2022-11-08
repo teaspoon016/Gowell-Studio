@@ -207,7 +207,7 @@ a:hover {
   margin: 0 0.2rem;
   border-color: transparent;
   padding: 0.5rem 0.8rem;
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 
 .pagination-a .pagination .page-link:hover,
@@ -327,7 +327,7 @@ a:hover {
 
 .title-link a {
   text-decoration: none;
-  color: #313131;
+  color: #898989;
 }
 
 .title-link span {
@@ -563,7 +563,7 @@ a:hover {
 .btn.btn-a {
   text-decoration: none;
   background-color: #ffffff;
-  color: #ffffff;
+  color: #000000;
 }
 
 .btn.btn-a:hover {
@@ -1501,7 +1501,7 @@ a:hover {
   font-size: 0.9rem;
   background-color: #4273dd;
   padding: 0.3rem 0.7rem;
-  color: #313131;
+  color: #ffffff;
   letter-spacing: 0.03em;
   border-radius: 50px;
   text-decoration: none;
@@ -1966,6 +1966,7 @@ a:hover {
   margin-top: 25px;
   padding: 1.5rem 1.5rem;
   background-color: #f3f3f3;
+  color: #515151 !important;
   position: relative;
 }
 
